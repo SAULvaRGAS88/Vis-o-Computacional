@@ -46,6 +46,10 @@ pip install opencv-python-headless
 ## 🏁 Modo de Uso
 
 ### 1. **Instalação das Dependências**
+### **Baixe/clone o repositório do projeto**
+[Link para acessar → ](https://github.com/SAULvaRGAS88/Visao-Computacional.git) 🚀
+
+### 2. **Instalação das Dependências**
 Após garantir que o Python está instalado em sua máquina, instale as bibliotecas necessárias:
 
 ```bash
@@ -121,12 +125,10 @@ Este projeto é de código aberto. Sinta-se livre para usar e modificar conforme
 
 ## 📧 Contato
 
-Caso precise entrar em contato para dúvidas ou sugestões, você pode enviar um e-mail para **[seuemail@dominio.com](mailto:seuemail@dominio.com)**.
+## 👨‍💻 Desenvolvedor
+**Saul Vargas**
 
----
-
-## 🏆 Agradecimentos
-
-Obrigado à comunidade **OpenCV** pela ferramenta incrível que tornou este projeto possível. A tecnologia de visão computacional é uma área incrível e cheia de potencial! 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saul-vargas-68a9734)
+- 📞 [WhatsApp](https://wa.me/5551985027412?text=Olá%20Saul!)
 
 ---
